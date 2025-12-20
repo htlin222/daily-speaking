@@ -1,0 +1,15 @@
+[book]
+title = "Daily Speaking Practice"
+authors = ["htlin222"]
+description = "100-day English speaking practice system with phonetic annotations"
+language = "en"
+src = "src"
+
+[build]
+build-dir = "book"
+
+[output.html]
+default-theme = "light"
+preferred-dark-theme = "navy"
+git-repository-url = "https://github.com/htlin222/daily-speaking"
+edit-url-template = "https://github.com/htlin222/daily-speaking/edit/main/{path}"
