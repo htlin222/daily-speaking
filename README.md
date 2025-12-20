@@ -40,8 +40,11 @@
 ```
 daily-speaking/
 ├── README.md          # 本說明
-├── CLAUDE.md          # 框架規格（給 AI 或自己參考）
-└── example-day*.md    # 每日練習內容
+├── CLAUDE.md          # 框架規格
+├── topics.md          # 100 主題清單
+└── days/
+    ├── day-001.md ~ day-100.md  # 100 天練習
+    └── example-day2.md          # 格式範例
 ```
 
 ## 標註說明
