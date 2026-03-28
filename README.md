@@ -1,3 +1,7 @@
+![GitHub stars](https://img.shields.io/github/stars/htlin222/daily-speaking?style=flat-square)
+![Last commit](https://img.shields.io/github/last-commit/htlin222/daily-speaking?style=flat-square)
+![License](https://img.shields.io/github/license/htlin222/daily-speaking?style=flat-square)
+
 # Daily Speaking 每日口說練習
 
 針對英語口試（如 IELTS Speaking、學術簡報）設計的 25 分鐘結構化練習系統。
